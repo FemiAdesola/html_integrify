@@ -9,7 +9,6 @@ This is an HTML and Git CLI introduction practice @integrify with instructor Ali
 - [Getting started](#getting-started)
 
 ## Technologies
----
 - HTML
 
 ## Project structure
