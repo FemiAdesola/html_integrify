@@ -4,7 +4,6 @@
 This is an HTML and Git CLI introduction practice @integrify with instructor Alia Trang Nguyen.
 
 ## Table of content
----
 - [Technologies](#technologies)
 - [Project structure](#project-structure)
 - [Getting started](#getting-started)
@@ -14,7 +13,6 @@ This is an HTML and Git CLI introduction practice @integrify with instructor Ali
 - HTML
 
 ## Project structure
----
 ```shell
 .
 ├── README.md
@@ -22,7 +20,6 @@ This is an HTML and Git CLI introduction practice @integrify with instructor Ali
 └── index.html
 ```
 ## Getting started
----
 ### Steps taken 
 <ol>
     <li>The parent (upstream) forked from the repo @integrify GitHub account </li>
