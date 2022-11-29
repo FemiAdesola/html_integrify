@@ -1,4 +1,4 @@
-# Introduction to HTML
+# Getting Started with HTML
 
 Practice Git CLI, basic HTML elements and build short introduction about yourself.
 
